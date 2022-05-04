@@ -19,5 +19,3 @@ the third dashboard:-
 	on the top of the dashboard will find four slicers to filter data to get a specific insight
 	then the rest of the visualizations is about the items found in the dataset (البنود)
 	the way those insights is calculated is by using DAX language to calculate the mean of the means 
-
-كل عام وأنتم بخير, عيدكم مبارك.
